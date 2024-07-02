@@ -1,0 +1,100 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/mshoaib/ECE-124/Lab3/simulation/qsim
+Elogicalstep_lab3_top
+Z1 w1719452774
+Z2 DPx11 fiftyfivenm 21 fiftyfivenm_atom_pack 0 22 7d5Xo;QBOkc31OfQTzSXV0
+Z3 DPx11 fiftyfivenm 22 fiftyfivenm_components 0 22 IfY7Mh2WPBc;@7U@3<I^[0
+Z4 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z5 DPx6 altera 11 dffeas_pack 0 22 :S1C`o89Vbe5bV6`:6CaB3
+Z6 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z9 DPx6 altera 28 altera_primitives_components 0 22 z?[99Tn<@QGNik3V1c6ah1
+R0
+Z10 8LogicalStep_Lab3_top.vho
+Z11 FLogicalStep_Lab3_top.vho
+l0
+L36
+VJgdCACiI6VhXGH9l6hkU=1
+!s100 aKQSkII8=TR39n8O59hKX0
+Z12 OV;C;10.5b;63
+32
+Z13 !s110 1719452775
+!i10b 1
+Z14 !s108 1719452774.000000
+Z15 !s90 -work|work|LogicalStep_Lab3_top.vho|
+Z16 !s107 LogicalStep_Lab3_top.vho|
+!i113 1
+Z17 o-work work
+Z18 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+DEx4 work 20 logicalstep_lab3_top 0 22 JgdCACiI6VhXGH9l6hkU=1
+l165
+L48
+V^J5I9cVjNOH=3z6P=KmbL0
+!s100 ;JT2bJfV>>94FkM2`ka=?2
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+Elogicalstep_lab3_top_vhd_vec_tst
+Z19 w1719452773
+R7
+R8
+R0
+Z20 8Waveform.vwf.vht
+Z21 FWaveform.vwf.vht
+l0
+L31
+VQU6?ch@GNn0ifFI]nU_lm3
+!s100 zmbKgdMfezGHFNl3YfS:K1
+R12
+32
+R13
+!i10b 1
+Z22 !s108 1719452775.000000
+Z23 !s90 -work|work|Waveform.vwf.vht|
+Z24 !s107 Waveform.vwf.vht|
+!i113 1
+R17
+R18
+Alogicalstep_lab3_top_arch
+R7
+R8
+Z25 DEx4 work 32 logicalstep_lab3_top_vhd_vec_tst 0 22 QU6?ch@GNn0ifFI]nU_lm3
+l54
+L33
+VZ2V?_z0:[LlBAnic7D;mZ1
+!s100 g6D1i=i[En1HA4Q?C6[bJ3
+R12
+32
+R13
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R17
+R18
